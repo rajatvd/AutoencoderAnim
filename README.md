@@ -1,6 +1,6 @@
 # Animating Doodles with Autoencoders
 
-This repo contains the code for my blog post on creating animations of doodles using autoencoders trained on synthetic data.
+This repo contains the code for my [blog post](https://rajatvd.github.io/Animating-Doodles-With-Autoencoders/) on creating animations of doodles using autoencoders trained on synthetic data.
 
 ## Requirements
 
