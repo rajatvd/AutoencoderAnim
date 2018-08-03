@@ -14,3 +14,5 @@ This repo contains the code for my blog post on creating animations of doodles u
 * `lines_dataset.ipynb` contains the code for making the synthetic dataset.
 * Run `train.ipynb` after setting a save directory name to train a CoordConv autoencoder with a latent space size of 64. You can change this and try out other models as well.
 * Play around with a trained model to make gifs using the `analysis.ipynb` notebook.
+
+A sample grid of images for the tree gif is also available as `tree.bmp`. Use this to create some gifs using the autoencoder you trained.
